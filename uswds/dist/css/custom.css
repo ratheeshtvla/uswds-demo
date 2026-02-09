@@ -16,7 +16,7 @@ body{
 	font-family: Source Sans Pro Web, Helvetica Neue, Helvetica, Roboto, Arial, sans-serif;
 }
 .usa-hero {
-	background-image: url("http://localhost/usds/images/banner.png");
+	background-image: url("https://ratheeshtvla.github.io/uswds-demo/images/banner.png");
     min-height: 500px;
 	display: flex;
 	align-items: center;
@@ -297,7 +297,7 @@ body{
 /* inner page banner section */
 
 .hero-inner{
-	background-image: url("http://localhost/usds/images/banner-contact.png");
+	background-image: url("https://ratheeshtvla.github.io/uswds-demo/images/banner-contact.png");
     min-height: 350px;
 	display: flex;
 	align-items: center;
@@ -462,7 +462,7 @@ body{
 }
 /* blog page */
 .hero-inner-blog{
-	background-image: url("http://localhost/usds/images/banner-news.png");
+	background-image: url("https://ratheeshtvla.github.io/uswds-demo/images/banner-news.png");
     min-height: 350px;
 	display: flex;
 	align-items: center;
