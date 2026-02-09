@@ -676,6 +676,11 @@ body{
 	padding-top: 30px;
 	padding-bottom: 30px;
 }
+.usa-icon {
+    
+    height: 2rem;
+    width: 2rem;
+}
 }
 @media (min-width: 1024px) {
 .grid-container-widescreen {
@@ -737,11 +742,7 @@ body{
 	font-size: 2rem;
 	padding-top: 0;
 }
-.usa-icon {
-    
-    height: 2rem;
-    width: 2rem;
-}
+
 }
 @media (min-width: 1400px) {
 .grid-container-widescreen {
