@@ -737,6 +737,11 @@ body{
 	font-size: 2rem;
 	padding-top: 0;
 }
+.usa-icon {
+    
+    height: 2rem;
+    width: 2rem;
+}
 }
 @media (min-width: 1400px) {
 .grid-container-widescreen {
