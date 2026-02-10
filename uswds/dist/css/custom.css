@@ -657,9 +657,10 @@ body{
 .event_head{
 	font-size: 1.5rem;
 }
-.service_sec .usa-section .usa-button{
-	margin-bottom: 0.5rem;
+.service_sec .usa-button{
+	margin-bottom: 0rem;
 	margin-top: 0rem;
+	border-bottom: 1px solid #f0f0f0;
 }
 .usa-collection__heading {
 	font-size: 1rem;
