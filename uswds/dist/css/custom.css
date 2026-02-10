@@ -555,6 +555,10 @@ body{
   background: #14305b;
 }
 @media (max-width: 639px) {
+	.usa-hero{
+		min-height: 350px;
+	}
+	.us
 	.usa-breadcrumb *{
     clip: auto !important;
     clip-path: none !important;
