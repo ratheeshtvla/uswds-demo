@@ -589,13 +589,13 @@ body{
 }
 .priority_sec .brdr_right{
     margin-bottom: 1rem;
-  }
-  .usa-menu-btn{
+}
+.usa-menu-btn{
 	 background: #14305b;
-	 font-size: 1.3rem;
-	 padding-left: 0rem;
-	 padding-right: 0rem;
-	 width: 3rem;
+        font-size: 1rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        width: 5rem;
 }
 .hero-inner .usa-hero__callout{
 	padding: 1rem;
@@ -686,6 +686,13 @@ body{
     height: 2rem;
     width: 2rem;
 }
+.usa-menu-btn {
+        background: #14305b;
+        font-size: 1rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
+        width: 5rem;
+    }
 }
 @media (min-width: 1024px) {
 .grid-container-widescreen {
