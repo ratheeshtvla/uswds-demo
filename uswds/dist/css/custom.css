@@ -549,6 +549,11 @@ body{
 .brdr_blog{
 	border-top: 1px solid #f0f0f0;
 }
+.blog_grid .usa-card__footer .usa-link {
+  color: #ffffff;
+  text-decoration: none;
+  background: #14305b;
+}
 @media (max-width: 639px) {
 	.usa-breadcrumb *{
     clip: auto !important;
