@@ -558,6 +558,10 @@ body{
 	.usa-hero{
 		min-height: 350px;
 	}
+	.breadcrumb_sec .usa-breadcrumb {
+    padding-bottom: 0rem;
+    padding-top: 0;
+}
 	.usa-breadcrumb *{
     clip: auto !important;
     clip-path: none !important;
