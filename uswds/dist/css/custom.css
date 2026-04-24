@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .custom-hero {
-  background: #fafbfd url('../../../images/banner.png') no-repeat right center / contain;
+  background: #fafbfd url('https://ratheeshtvla.github.io/uswds-demo/images/banner.png') no-repeat right center / contain;
   min-height: 500px;
   padding: 60px 11%;
   display: flex;
